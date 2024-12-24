@@ -7,7 +7,7 @@ print("Starting SMTP test script...")  # Debugging line
 smtp_server = "smtp.gmail.com"
 port = 587  # TLS
 sender_email = "baltimore273@gmail.com"
-app_password = "slxv ewjq tkig fqkf"  # Replace with your generated app password
+app_password = "slxv ewjq tkig fqkf"  # 
 recipient_email = "theeville712@gmail.com"
 
 # Create the email
